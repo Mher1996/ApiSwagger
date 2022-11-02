@@ -1,0 +1,478 @@
+{
+	"id": "1eafbf54-638e-4f6f-84e4-a26c1d51a97d",
+	"name": "Authors",
+	"timestamp": "2022-10-24T12:17:11.677Z",
+	"collection_id": "15688715-13f0b8bc-8e37-4e93-b91b-1ea35512e685",
+	"folder_id": 0,
+	"environment_id": "15688715-9813ef52-5163-4154-a3e7-f534291cc144",
+	"totalPass": 60,
+	"totalFail": 0,
+	"results": [
+		{
+			"id": "2f85a15e-11f7-4609-a46d-7a6f6cffdb5e",
+			"name": "GetAuthors",
+			"time": 81,
+			"responseCode": {
+				"code": 200,
+				"name": "OK"
+			},
+			"tests": {
+				"Status code is 200": true,
+				"Content-Type is present": true,
+				"Schema is valid": true
+			},
+			"testPassFailCounts": {
+				"Status code is 200": {
+					"pass": 3,
+					"fail": 0
+				},
+				"Content-Type is present": {
+					"pass": 3,
+					"fail": 0
+				},
+				"Schema is valid": {
+					"pass": 3,
+					"fail": 0
+				}
+			},
+			"times": [
+				554,
+				82,
+				81
+			],
+			"allTests": [
+				{
+					"Status code is 200": true,
+					"Content-Type is present": true,
+					"Schema is valid": true
+				},
+				{
+					"Status code is 200": true,
+					"Content-Type is present": true,
+					"Schema is valid": true
+				},
+				{
+					"Status code is 200": true,
+					"Content-Type is present": true,
+					"Schema is valid": true
+				}
+			]
+		},
+		{
+			"id": "3ae7e8fa-7a14-45ce-a085-613c3adafd45",
+			"name": "PostAuthors",
+			"time": 76,
+			"responseCode": {
+				"code": 200,
+				"name": "OK"
+			},
+			"tests": {
+				"Status code is 200": true,
+				"Content-Type is present": true,
+				"Schema is valid": true
+			},
+			"testPassFailCounts": {
+				"Status code is 200": {
+					"pass": 3,
+					"fail": 0
+				},
+				"Content-Type is present": {
+					"pass": 3,
+					"fail": 0
+				},
+				"Schema is valid": {
+					"pass": 3,
+					"fail": 0
+				}
+			},
+			"times": [
+				78,
+				79,
+				76
+			],
+			"allTests": [
+				{
+					"Status code is 200": true,
+					"Content-Type is present": true,
+					"Schema is valid": true
+				},
+				{
+					"Status code is 200": true,
+					"Content-Type is present": true,
+					"Schema is valid": true
+				},
+				{
+					"Status code is 200": true,
+					"Content-Type is present": true,
+					"Schema is valid": true
+				}
+			]
+		},
+		{
+			"id": "4b062709-ac41-40e6-bef7-3646c04d7640",
+			"name": "GetBooks",
+			"time": 80,
+			"responseCode": {
+				"code": 200,
+				"name": "OK"
+			},
+			"tests": {
+				"Status code is 200": true,
+				"Content-Type is present": true,
+				"Schema is valid": true
+			},
+			"testPassFailCounts": {
+				"Status code is 200": {
+					"pass": 3,
+					"fail": 0
+				},
+				"Content-Type is present": {
+					"pass": 3,
+					"fail": 0
+				},
+				"Schema is valid": {
+					"pass": 3,
+					"fail": 0
+				}
+			},
+			"times": [
+				80,
+				79,
+				80
+			],
+			"allTests": [
+				{
+					"Status code is 200": true,
+					"Content-Type is present": true,
+					"Schema is valid": true
+				},
+				{
+					"Status code is 200": true,
+					"Content-Type is present": true,
+					"Schema is valid": true
+				},
+				{
+					"Status code is 200": true,
+					"Content-Type is present": true,
+					"Schema is valid": true
+				}
+			]
+		},
+		{
+			"id": "23f28b91-273a-4c41-ae77-339731e4b555",
+			"name": "GetAuthorsById",
+			"time": 79,
+			"responseCode": {
+				"code": 200,
+				"name": "OK"
+			},
+			"tests": {
+				"Status code is 200": true,
+				"Content-Type is present": true,
+				"Schema is valid": true
+			},
+			"testPassFailCounts": {
+				"Status code is 200": {
+					"pass": 3,
+					"fail": 0
+				},
+				"Content-Type is present": {
+					"pass": 3,
+					"fail": 0
+				},
+				"Schema is valid": {
+					"pass": 3,
+					"fail": 0
+				}
+			},
+			"times": [
+				79,
+				79,
+				79
+			],
+			"allTests": [
+				{
+					"Status code is 200": true,
+					"Content-Type is present": true,
+					"Schema is valid": true
+				},
+				{
+					"Status code is 200": true,
+					"Content-Type is present": true,
+					"Schema is valid": true
+				},
+				{
+					"Status code is 200": true,
+					"Content-Type is present": true,
+					"Schema is valid": true
+				}
+			]
+		},
+		{
+			"id": "6fd0288c-a673-46ac-8635-1694611d5c56",
+			"name": "PutAuthors",
+			"time": 84,
+			"responseCode": {
+				"code": 200,
+				"name": "OK"
+			},
+			"tests": {
+				"Status code is 200": true,
+				"Content-Type is present": true,
+				"Schema is valid": true
+			},
+			"testPassFailCounts": {
+				"Status code is 200": {
+					"pass": 3,
+					"fail": 0
+				},
+				"Content-Type is present": {
+					"pass": 3,
+					"fail": 0
+				},
+				"Schema is valid": {
+					"pass": 3,
+					"fail": 0
+				}
+			},
+			"times": [
+				80,
+				81,
+				84
+			],
+			"allTests": [
+				{
+					"Status code is 200": true,
+					"Content-Type is present": true,
+					"Schema is valid": true
+				},
+				{
+					"Status code is 200": true,
+					"Content-Type is present": true,
+					"Schema is valid": true
+				},
+				{
+					"Status code is 200": true,
+					"Content-Type is present": true,
+					"Schema is valid": true
+				}
+			]
+		},
+		{
+			"id": "8868d57f-2d7d-4ea7-913b-d3483acb0d97",
+			"name": "New Request",
+			"time": 77,
+			"responseCode": {
+				"code": 200,
+				"name": "OK"
+			},
+			"tests": {
+				"Status code is 200": true
+			},
+			"testPassFailCounts": {
+				"Status code is 200": {
+					"pass": 3,
+					"fail": 0
+				}
+			},
+			"times": [
+				81,
+				78,
+				77
+			],
+			"allTests": [
+				{
+					"Status code is 200": true
+				},
+				{
+					"Status code is 200": true
+				},
+				{
+					"Status code is 200": true
+				}
+			]
+		},
+		{
+			"id": "3fca90b4-a5a7-4a6c-9d0c-09a8377d47a8",
+			"name": "InvalidMediaType",
+			"time": 80,
+			"responseCode": {
+				"code": 415,
+				"name": "Unsupported Media Type"
+			},
+			"tests": {
+				"Media type is not valid": true
+			},
+			"testPassFailCounts": {
+				"Media type is not valid": {
+					"pass": 3,
+					"fail": 0
+				}
+			},
+			"times": [
+				78,
+				80,
+				80
+			],
+			"allTests": [
+				{
+					"Media type is not valid": true
+				},
+				{
+					"Media type is not valid": true
+				},
+				{
+					"Media type is not valid": true
+				}
+			]
+		},
+		{
+			"id": "0c98a2a2-b899-4ad5-86c3-3b7af2d66a55",
+			"name": "InvalidSchema",
+			"time": 79,
+			"responseCode": {
+				"code": 200,
+				"name": "OK"
+			},
+			"tests": {
+				"Schema is Invalid": true
+			},
+			"testPassFailCounts": {
+				"Schema is Invalid": {
+					"pass": 3,
+					"fail": 0
+				}
+			},
+			"times": [
+				78,
+				81,
+				79
+			],
+			"allTests": [
+				{
+					"Schema is Invalid": true
+				},
+				{
+					"Schema is Invalid": true
+				},
+				{
+					"Schema is Invalid": true
+				}
+			]
+		},
+		{
+			"id": "5448f110-b8d6-415a-a2b4-294c8a8e61b5",
+			"name": "InvalidURL",
+			"time": 82,
+			"responseCode": {
+				"code": 404,
+				"name": "Not Found"
+			},
+			"tests": {
+				"URL is invalid": true
+			},
+			"testPassFailCounts": {
+				"URL is invalid": {
+					"pass": 3,
+					"fail": 0
+				}
+			},
+			"times": [
+				78,
+				128,
+				82
+			],
+			"allTests": [
+				{
+					"URL is invalid": true
+				},
+				{
+					"URL is invalid": true
+				},
+				{
+					"URL is invalid": true
+				}
+			]
+		},
+		{
+			"id": "8514a8c8-c71d-4d29-a971-51b72700ba19",
+			"name": "InvalidCallMethod",
+			"time": 78,
+			"responseCode": {
+				"code": 405,
+				"name": "Method Not Allowed"
+			},
+			"tests": {
+				"Status code is 405": true
+			},
+			"testPassFailCounts": {
+				"Status code is 405": {
+					"pass": 3,
+					"fail": 0
+				}
+			},
+			"times": [
+				78,
+				79,
+				78
+			],
+			"allTests": [
+				{
+					"Status code is 405": true
+				},
+				{
+					"Status code is 405": true
+				},
+				{
+					"Status code is 405": true
+				}
+			]
+		}
+	],
+	"count": 3,
+	"totalTime": 2906,
+	"collection": {
+		"requests": [
+			{
+				"id": "2f85a15e-11f7-4609-a46d-7a6f6cffdb5e",
+				"method": "GET"
+			},
+			{
+				"id": "3ae7e8fa-7a14-45ce-a085-613c3adafd45",
+				"method": "POST"
+			},
+			{
+				"id": "4b062709-ac41-40e6-bef7-3646c04d7640",
+				"method": "GET"
+			},
+			{
+				"id": "23f28b91-273a-4c41-ae77-339731e4b555",
+				"method": "GET"
+			},
+			{
+				"id": "6fd0288c-a673-46ac-8635-1694611d5c56",
+				"method": "PUT"
+			},
+			{
+				"id": "8868d57f-2d7d-4ea7-913b-d3483acb0d97",
+				"method": "DELETE"
+			},
+			{
+				"id": "3fca90b4-a5a7-4a6c-9d0c-09a8377d47a8",
+				"method": "POST"
+			},
+			{
+				"id": "0c98a2a2-b899-4ad5-86c3-3b7af2d66a55",
+				"method": "POST"
+			},
+			{
+				"id": "5448f110-b8d6-415a-a2b4-294c8a8e61b5",
+				"method": "GET"
+			},
+			{
+				"id": "8514a8c8-c71d-4d29-a971-51b72700ba19",
+				"method": "PUT"
+			}
+		]
+	}
+}
